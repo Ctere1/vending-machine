@@ -8,10 +8,10 @@ export const glassMat = new MeshMatcapMaterial({
   transparent: true,
 })
 
-export const insideMat = new MeshBasicMaterial({ color: '#545454', side: BackSide });
+export const insideMat = new MeshMatcapMaterial({side: BackSide });
 export const spiralMat = new MeshMatcapMaterial()
-export const panelMat = new MeshBasicMaterial({ color: '#545454', side: DoubleSide });
-export const digitMat = new MeshBasicMaterial({ color: 'gray' });
+export const panelMat = new MeshBasicMaterial({ color: 'gray', side: DoubleSide });
+export const digitMat = new MeshBasicMaterial({ color: 'black', side: DoubleSide });
 export const buttonMat  = new MeshMatcapMaterial()
 export const eggMat = new MeshMatcapMaterial({ side: DoubleSide })
 
