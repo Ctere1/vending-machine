@@ -7,7 +7,7 @@
    ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 </h1>
 
-- Vending Machine
+- This project is a 3D vending machine experience built using React, Three.js, and React Three Fiber. It simulates a vending machine environment with various items that can be selected and dispensed. 
 
 > [!Note]  
    This project was cloned from [here](https://gitlab.com/tchandelle/threejs-vending-machine)
