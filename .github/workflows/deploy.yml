@@ -1,4 +1,6 @@
-name: Deploy React App
+- name: GitHub Pages action
+  uses: peaceiris/actions-gh-pages@v4.0.0
+            
 
 on:
   push:
