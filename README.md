@@ -1,8 +1,10 @@
 <h1 align="center">
   <br>
   
-   Matryoshka Vending Machine - THREE.js + React
+   Matryoshka Vending Machine - THREE.js + React      
 
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 </h1>
 
 - Vending Machine
