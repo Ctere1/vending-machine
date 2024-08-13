@@ -1,4 +1,9 @@
-# Matryoshka Vending Machine - THREE.js + React
+<h1 align="center">
+  <br>
+  
+   Matryoshka Vending Machine - THREE.js + React
+
+</h1>
 
 - Vending Machine
 
