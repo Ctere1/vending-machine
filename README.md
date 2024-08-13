@@ -1,34 +1,32 @@
 # Matryoshka Vending Machine - THREE.js + React
 
-My project for the April 2024 [Three.js Journey Challenge 010](https://threejs-journey.com/challenges/vending-machine), got 🥉 3rd place.
+- Vending Machine
 
-The theme is **Vending Machine**.
+> [!Note]  
+   This project was cloned from [here](https://gitlab.com/tchandelle/threejs-vending-machine)
 
-I've created an interactive vending machine that sells smaller vending machine and chips.
+## 💾Installation Guide
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))    installed on your computer. 
+ 
+ ```bash
+ # Clone this repository
+ $ git clone https://github.com/Ctere1/vending-machine
+ # Go into the repository
+ $ cd vending-machine
+ # Install dependencies
+ $ npm install
+ ```
 
-[Online version here.](https://tchandelle.gitlab.io/threejs-vending-machine)
+ > For running the app:
+ ```bash
+ # Go into the repository
+ $ cd vending-machine
+ # Run the app
+ $ npm run dev
+ ```
 
-## Testimonial
+## ©License
+![GitHub](https://img.shields.io/github/license/Ctere1/vending-machine)
 
-> It's so dumb, I love it !
->
-> — Bruno Simon
-
-## Usage
-
-To run the project locally, follow these steps:
-
-1. Install dependencies:
-
-```sh
-npm install
-```
-
-2. Start the development server:
-
-```sh
-npm run dev
-```
-
-3. Open your browser and visit [http://localhost:5173](http://localhost:5173), or whatever address mentioned in the console.
+This project is licensed under the [MIT License](LICENSE).
 
